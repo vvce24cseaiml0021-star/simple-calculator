@@ -38,7 +38,7 @@ pipeline {
             echo 'CI Pipeline completed successfully!'
         }
         failure {
-            echo 'CI Pipeline failed! and it is not working correctly and it is fAILED'
+            echo 'CI Pipeline failed! and it is not working correctlY'
         }
     }
 }
